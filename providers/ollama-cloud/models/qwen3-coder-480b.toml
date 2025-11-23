@@ -1,4 +1,4 @@
-name = "Qwen3 Coder 480B"
+name = "qwen3-coder:480b-cloud"
 release_date = "2025-07-22"
 last_updated = "2025-07-22"
 attachment = false

@@ -1,6 +1,6 @@
-name = "cogito-2.1:671b-cloud"
-release_date = "2025-11-19"
-last_updated = "2025-11-19"
+name = "qwen3-vl:235b-cloud"
+release_date = "2025-10-27"
+last_updated = "2025-10-27"
 attachment = false
 reasoning = false
 tool_call = true
@@ -9,9 +9,10 @@ temperature = true
 open_weights = true
 
 [limit]
-context = 160_000
+context = 200_000
 output = 8_192
 
 [modalities]
 input = ["text"]
 output = ["text"]
+

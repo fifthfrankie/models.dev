@@ -1,17 +1,16 @@
-name = "cogito-2.1:671b-cloud"
-release_date = "2025-11-19"
-last_updated = "2025-11-19"
+name = "gpt-oss:20b-cloud"
+release_date = "2025-08-05"
+last_updated = "2025-08-05"
 attachment = false
-reasoning = false
+reasoning = true
 tool_call = true
 structured_output = true
 temperature = true
 open_weights = true
-
 [limit]
-context = 160_000
+context = 200_000
 output = 8_192
-
 [modalities]
 input = ["text"]
 output = ["text"]
+
